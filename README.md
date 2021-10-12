@@ -8,9 +8,9 @@ The ask is to replace all the ninth graders reading and math scores with null va
 
 - **How is the district summary affected?**
 
-![dis_summary_old](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\dis_summary_old.PNG)
+![dis_summary_old](/Resources/dis_summary_old.PNG)
 
-![dis_summary_new](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\dis_summary_new.PNG)
+![dis_summary_new](/Resources/dis_summary_new.PNG)
 
 ***New analysis in second picture with black background(after applying NaN's)*
 
@@ -18,9 +18,9 @@ As we can see from the pictures above there's a slight change in decimal points 
 
 - **How is the school summary affected?**
 
-![school_summary_old](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\school_summary_old.PNG)
+![school_summary_old](/Resources/school_summary_old.PNG)
 
-![school_summary_new](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\school_summary_new.PNG)
+![school_summary_new](/Resources/school_summary_new.PNG)
 
 ***New analysis in second picture with black background(after applying NaN's)*
 
@@ -36,13 +36,13 @@ The school summary for every other school remains the same but there's a signifi
 
     - Comparison of Math Scores
 
-      ![math_scores_old](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\math_scores_old.PNG) ![math_scores_new](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\math_scores_new.PNG) 
+      ![math_scores_old](/Resources/math_scores_old.PNG) ![math_scores_new](/Resources/math_scores_new.PNG) 
 
     ***New analysis in second picture with black background(after applying NaN's)*
 
     - Comparison of English Scores
 
-      ​	![reading_scores_old](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\reading_scores_old.PNG) ![reading_scores_new](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\reading_scores_new.PNG) 
+      ​	![reading_scores_old](/Resources/reading_scores_old.PNG) ![reading_scores_new](/Resources/reading_scores_new.PNG) 
 
       ***New analysis in second picture with black background(after applying NaN's)*
 
@@ -52,9 +52,9 @@ The school summary for every other school remains the same but there's a signifi
 
   - **Scores by school spending**
 
-    ![spending_summary_old](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\spending_summary_old.PNG)
+    ![spending_summary_old](/Resources/spending_summary_old.PNG)
 
-    ![spending_summary_new](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\spending_summary_new.PNG)
+    ![spending_summary_new](/Resources/spending_summary_new.PNG)
 
     ***New analysis in second picture with black background(after applying NaN's)*
 
@@ -64,9 +64,9 @@ The school summary for every other school remains the same but there's a signifi
 
   - **Scores by school size**
 
-    ![school_size_old](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\school_size_old.PNG)
+    ![school_size_old](/Resources/school_size_old.PNG)
 
-    ![school_size_new](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\school_size_new.PNG)
+    ![school_size_new](/Resources/school_size_new.PNG)
 
     ​	***New analysis in second picture with black background(after applying NaN's)*
 
@@ -76,9 +76,9 @@ The school summary for every other school remains the same but there's a signifi
 
   - **Scores by school type**
 
-  ![school_type_old](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\school_type_old.PNG)
+  ![school_type_old](/Resources/school_type_old.PNG)
 
-  ![school_type_new](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\School_District_Analysis\Resources\school_type_new.PNG)
+  ![school_type_new](/Resources/school_type_new.PNG)
 
   ​			***New analysis in second picture with black background(after applying NaN's)*
 
